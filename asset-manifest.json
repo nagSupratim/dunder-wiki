@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/dunder-wiki/static/css/main.06ec11e4.chunk.css",
-    "main.js": "/dunder-wiki/static/js/main.5aef37ad.chunk.js",
-    "main.js.map": "/dunder-wiki/static/js/main.5aef37ad.chunk.js.map",
+    "main.js": "/dunder-wiki/static/js/main.ab04e100.chunk.js",
+    "main.js.map": "/dunder-wiki/static/js/main.ab04e100.chunk.js.map",
     "runtime-main.js": "/dunder-wiki/static/js/runtime-main.968ed4d8.js",
     "runtime-main.js.map": "/dunder-wiki/static/js/runtime-main.968ed4d8.js.map",
     "static/css/2.4be38407.chunk.css": "/dunder-wiki/static/css/2.4be38407.chunk.css",
-    "static/js/2.f04b4618.chunk.js": "/dunder-wiki/static/js/2.f04b4618.chunk.js",
-    "static/js/2.f04b4618.chunk.js.map": "/dunder-wiki/static/js/2.f04b4618.chunk.js.map",
+    "static/js/2.6448126f.chunk.js": "/dunder-wiki/static/js/2.6448126f.chunk.js",
+    "static/js/2.6448126f.chunk.js.map": "/dunder-wiki/static/js/2.6448126f.chunk.js.map",
     "index.html": "/dunder-wiki/index.html",
     "static/css/2.4be38407.chunk.css.map": "/dunder-wiki/static/css/2.4be38407.chunk.css.map",
     "static/css/main.06ec11e4.chunk.css.map": "/dunder-wiki/static/css/main.06ec11e4.chunk.css.map",
-    "static/js/2.f04b4618.chunk.js.LICENSE.txt": "/dunder-wiki/static/js/2.f04b4618.chunk.js.LICENSE.txt"
+    "static/js/2.6448126f.chunk.js.LICENSE.txt": "/dunder-wiki/static/js/2.6448126f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.968ed4d8.js",
     "static/css/2.4be38407.chunk.css",
-    "static/js/2.f04b4618.chunk.js",
+    "static/js/2.6448126f.chunk.js",
     "static/css/main.06ec11e4.chunk.css",
-    "static/js/main.5aef37ad.chunk.js"
+    "static/js/main.ab04e100.chunk.js"
   ]
 }
